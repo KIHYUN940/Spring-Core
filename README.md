@@ -4,4 +4,5 @@
 [스프링 컨테이너 생성](https://kihyunhong.tistory.com/148)  
 [컨테이너에 등록된 빈 조회](https://kihyunhong.tistory.com/149)  
 [BeanFactory와 ApplicationContext](https://kihyunhong.tistory.com/151)  
-[스프링 빈 설정 메타 정보 - BeanDefinition](https://kihyunhong.tistory.com/152)
+[스프링 빈 설정 메타 정보 - BeanDefinition](https://kihyunhong.tistory.com/152)  
+[싱글톤 컨테이너 - 스프링 없는 순수한 DI 컨테이너 테스트](https://kihyunhong.tistory.com/153) 
