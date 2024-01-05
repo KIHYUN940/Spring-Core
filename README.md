@@ -7,3 +7,4 @@
 [스프링 빈 설정 메타 정보 - BeanDefinition](https://kihyunhong.tistory.com/152)  
 [싱글톤 컨테이너 - 스프링 없는 순수한 DI 컨테이너 테스트](https://kihyunhong.tistory.com/153)  
 [싱글톤 패턴](https://kihyunhong.tistory.com/154)  
+[싱글톤 컨테이너](https://kihyunhong.tistory.com/155)  
