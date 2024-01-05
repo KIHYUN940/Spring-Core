@@ -8,3 +8,4 @@
 [싱글톤 컨테이너 - 스프링 없는 순수한 DI 컨테이너 테스트](https://kihyunhong.tistory.com/153)  
 [싱글톤 패턴](https://kihyunhong.tistory.com/154)  
 [싱글톤 컨테이너](https://kihyunhong.tistory.com/155)  
+[싱글톤 방식의 주의점](https://kihyunhong.tistory.com/156)
