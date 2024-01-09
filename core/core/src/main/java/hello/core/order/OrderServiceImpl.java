@@ -16,7 +16,7 @@ public class OrderServiceImpl implements OrderService {
     private final MemberRepository memberRepository; // final이 붙어 있으면 무조건 생성자를 통해 할당 해야함
     private final DiscountPolicy discountPolicy; // 인터페이스에 의존 / DIP 지킴
 
-    @Autowired
+    @Autowired //생성자가 하나일 땐 생략 가능
     public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
         this.memberRepository = memberRepository;
         this.discountPolicy = discountPolicy;
