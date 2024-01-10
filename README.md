@@ -13,4 +13,5 @@
 [컴포넌트 스캔과 의존관계 자동 주입](https://kihyunhong.tistory.com/158)  
 [컴포넌트 스캔 - 탐색 위치와 기본 스캔 대상](https://kihyunhong.tistory.com/159)  
 [컴포넌트 스캔 - 필터](https://kihyunhong.tistory.com/160)  
-[의존관계 자동 주입 - 다양한 의존관계 주입 방법](https://kihyunhong.tistory.com/161)
+[의존관계 자동 주입 - 다양한 의존관계 주입 방법](https://kihyunhong.tistory.com/161)  
+[의존관계 자동 주입 - 생성자 주입을 선택하자](https://kihyunhong.tistory.com/163)
