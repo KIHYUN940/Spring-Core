@@ -19,7 +19,7 @@ public class BeanLifeCycleTest {
     @Configuration
     static class LifeCycleConfig {
 
-        @Bean(initMethod = "init", destroyMethod = "close") // destroyMethod는 기본값이 (inferred)추론으로 등록되어 있어서 알아서 동작 / 추론 기능을 사용하기 싫으면 destroyMethod = "" 공백 지정
+        @Bean
         public NetworkClient networkClient() {
             NetworkClient networkClient = new NetworkClient();
             networkClient.setUrl("http://hello-spring.dev");
