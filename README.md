@@ -15,4 +15,5 @@
 [컴포넌트 스캔 - 필터](https://kihyunhong.tistory.com/160)  
 [의존관계 자동 주입 - 다양한 의존관계 주입 방법](https://kihyunhong.tistory.com/161)  
 [의존관계 자동 주입 - 생성자 주입을 선택하자](https://kihyunhong.tistory.com/163)  
-[의존관계 자동 주입 - 조회 대상 빈이 2개 이상일 때 해결 방법](https://kihyunhong.tistory.com/164)
+[의존관계 자동 주입 - 조회 대상 빈이 2개 이상일 때 해결 방법](https://kihyunhong.tistory.com/164)  
+[@Qualifier 컴파일시 타입 체크 문제 해결](https://kihyunhong.tistory.com/165)
