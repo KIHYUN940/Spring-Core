@@ -18,4 +18,6 @@
 [의존관계 자동 주입 - 조회 대상 빈이 2개 이상일 때 해결 방법](https://kihyunhong.tistory.com/164)  
 [@Qualifier 컴파일시 타입 체크 문제 해결](https://kihyunhong.tistory.com/165)  
 [조회한 빈이 모두 필요할 때 List, Map](https://kihyunhong.tistory.com/166)  
-[빈 생명주기 콜백](https://kihyunhong.tistory.com/167)
+[빈 생명주기 콜백](https://kihyunhong.tistory.com/167)  
+[빈 생명주기 콜백 3가지](https://kihyunhong.tistory.com/168)
+
