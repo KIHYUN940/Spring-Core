@@ -20,5 +20,6 @@
 [조회한 빈이 모두 필요할 때 List, Map](https://kihyunhong.tistory.com/166)  
 [빈 생명주기 콜백](https://kihyunhong.tistory.com/167)  
 [빈 생명주기 콜백 3가지](https://kihyunhong.tistory.com/168)  
-[빈 스코프 - 프로토타입](https://kihyunhong.tistory.com/169)
+[빈 스코프 - 프로토타입](https://kihyunhong.tistory.com/169)  
+[프로토타입 스코프 - 싱글톤 빈과 함께 사용시 문제점 및 해결](https://kihyunhong.tistory.com/170)
 
